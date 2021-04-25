@@ -1,21 +1,11 @@
-### Hi there, I'm Stephan!👋
+## Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=cobalt)](https://github.com/StephanAkkerman/)
 
-Hi, I'm Stephan Akkerman, an artificial intelligence studient from The Netherlands.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=cobalt)](https://github.com/StephanAkkerman/)
 
+---
+## Projects
 
+[![TensorTrade Extras](https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=cobalt)](https://github.com/StephanAkkerman/TensorTradeExtras)
 
-<!-- [![Stephan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StephanAkkerman&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Stephan's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=material-palenight" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Trailing_Stop_Loss&theme=material-palenight" />
-</a>
+[![Trailing Stop Loss](https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Trailing_Stop_Loss&theme=cobalt)](https://github.com/StephanAkkerman/Binance_Trailing_Stop_Loss)
