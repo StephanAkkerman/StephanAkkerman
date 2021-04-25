@@ -14,8 +14,8 @@ Hi, I'm Stephan Akkerman, an artificial intelligence studient from The Netherlan
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=material-palenight" />
 </a>    
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Trailing_Stop_Loss&theme=material-palenight" />
 </a>
