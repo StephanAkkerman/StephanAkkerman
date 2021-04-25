@@ -1,7 +1,7 @@
 ## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=cobalt)](https://github.com/StephanAkkerman/)
+[![Stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=cobalt)](https://github.com/StephanAkkerman/?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=cobalt)](https://github.com/StephanAkkerman/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=cobalt)](https://github.com/StephanAkkerman/?tab=repositories)
 
 ---
 ## Projects
