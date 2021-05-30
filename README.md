@@ -15,7 +15,11 @@
 </a>
 
 ### Binance
-<a href="https://github.com/StephanAkkerman/Binance_Trailing_Stop_Los">
+<a href="https://github.com/StephanAkkerman/BinanceData">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=BinanceData&theme=nightowl " />
+</a>
+
+<a href="https://github.com/StephanAkkerman/Binance_Trailing_Stop_Loss">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Trailing_Stop_Loss&theme=nightowl " />
 </a>
 
