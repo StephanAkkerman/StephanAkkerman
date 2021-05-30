@@ -5,6 +5,7 @@
 
 ---
 ## Projects
+### TensorTrade
 <a href="https://github.com/StephanAkkerman/TensorTradeExtras">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=nightowl " />
 </a>
@@ -13,6 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTrade&theme=nightowl " />
 </a>
 
+### Binance
 <a href="https://github.com/StephanAkkerman/Binance_Trailing_Stop_Los">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Trailing_Stop_Loss&theme=nightowl " />
 </a>
