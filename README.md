@@ -14,6 +14,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTrade&theme=nightowl " />
 </a>
 
+<a href="https://github.com/StephanAkkerman/Crypto_OHLCV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Crypto_OHLCV&theme=nightowl " />
+</a>
+
 ### Binance
 <a href="https://github.com/StephanAkkerman/BinanceData">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=BinanceData&theme=nightowl " />
