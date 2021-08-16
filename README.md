@@ -27,8 +27,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Trailing_Stop_Loss&theme=nightowl " />
 </a>
 
-<a href="https://github.com/StephanAkkerman/Binance_Charts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Charts&theme=nightowl " />
+<a href="https://github.com/StephanAkkerman/Live_Binance_Charts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Live_Binance_Charts&theme=nightowl " />
 </a>
 
 <a href="https://github.com/StephanAkkerman/Binance_Line_Chart">
