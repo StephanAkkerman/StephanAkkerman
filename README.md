@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl )](https://github.com/StephanAkkerman/?tab=repositories)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shashankvemuri.shashankvemuri)
+
 ---
 ## Projects
 ### TensorTrade
