@@ -1,7 +1,7 @@
 ## Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl )](https://github.com/StephanAkkerman/?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&hide=html)](https://github.com/StephanAkkerman/?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl)](https://github.com/StephanAkkerman/?tab=repositories)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=StephanAkkerman.StephanAkkerman)
 
