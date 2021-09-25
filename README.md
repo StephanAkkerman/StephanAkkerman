@@ -40,3 +40,7 @@
 <a href="https://github.com/StephanAkkerman/Binance_Stop_Loss_Alert">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Stop_Loss_Alert&theme=nightowl " />
 </a>
+
+<a href="https://github.com/StephanAkkerman/New_Binance_Listings">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=New_Binance_Listings&theme=nightowl " />
+</a>
