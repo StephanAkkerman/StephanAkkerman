@@ -44,3 +44,9 @@
 <a href="https://github.com/StephanAkkerman/New_Binance_Listings">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=New_Binance_Listings&theme=nightowl " />
 </a>
+
+### Axie Infinity
+<a href="https://github.com/StephanAkkerman/Axie_Manager_Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Axie_Manager_Bot&theme=nightowl " />
+</a>
+
