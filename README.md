@@ -51,6 +51,6 @@
 </a>
 
 <a href="https://github.com/StephanAkkerman/Axie_Infinity_Extras">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Axie_Infinity_Extrast&theme=nightowl " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Axie_Infinity_Extras&theme=nightowl " />
 </a>
 
