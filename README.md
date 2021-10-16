@@ -53,3 +53,7 @@
 <a href="https://github.com/StephanAkkerman/Axie_Manager_Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Axie_Manager_Bot&theme=nightowl " />
 </a>
+
+<a href="https://github.com/StephanAkkerman/Scholar_Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Scholar_Stats&theme=nightowl " />
+</a>
