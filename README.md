@@ -32,7 +32,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 ## 📘 My Open Source Projects
-### TensorTrade
+### 📈 TensorTrade
 <p align="left">
   <a href="https://github.com/StephanAkkerman/TensorTradeExtras">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=nightowl&hide_border=true&show_icons=false" />
@@ -45,33 +45,36 @@
   <a href="https://github.com/StephanAkkerman/Crypto_OHLCV">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Crypto_OHLCV&theme=nightowl&hide_border=true&show_icons=false" />
  </a>
+ </p>
 
-### Binance
-<a href="https://github.com/StephanAkkerman/BinanceData">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=BinanceData&theme=nightowl " />
-</a>
+### 🅱️ Binance
+<p align="left">
+  <a href="https://github.com/StephanAkkerman/BinanceData">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=BinanceData&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>  
+  
+ <a href="https://github.com/StephanAkkerman/Binance_Trailing_Stop_Loss">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Trailing_Stop_Loss&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>  
 
-<a href="https://github.com/StephanAkkerman/Binance_Trailing_Stop_Loss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Trailing_Stop_Loss&theme=nightowl " />
-</a>
+ <a href="https://github.com/StephanAkkerman/Live_Binance_Charts">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Live_Binance_Charts&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>  
 
-<a href="https://github.com/StephanAkkerman/Live_Binance_Charts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Live_Binance_Charts&theme=nightowl " />
-</a>
+ <a href="https://github.com/StephanAkkerman/Binance_Line_Chart">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Line_Chart&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>  
+  
+ <a href="https://github.com/StephanAkkerman/Binance_Stop_Loss_Alert">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Stop_Loss_Alert&theme=nightowl&hide_border=true&show_icons=false" />
+ </a> 
 
-<a href="https://github.com/StephanAkkerman/Binance_Line_Chart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Line_Chart&theme=nightowl " />
-</a>
+ <a href="https://github.com/StephanAkkerman/New_Binance_Listings">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=New_Binance_Listings&theme=nightowl&hide_border=true&show_icons=false" />
+ </a> 
+ </p>
 
-<a href="https://github.com/StephanAkkerman/Binance_Stop_Loss_Alert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Binance_Stop_Loss_Alert&theme=nightowl " />
-</a>
-
-<a href="https://github.com/StephanAkkerman/New_Binance_Listings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=New_Binance_Listings&theme=nightowl " />
-</a>
-
-### Axie Infinity
+### 👾 Axie Infinity
 <a href="https://github.com/StephanAkkerman/Axie_Infinity_Extras">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Axie_Infinity_Extras&theme=nightowl " />
 </a>
