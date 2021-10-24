@@ -7,8 +7,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23A37BCB&width=500&lines=Back-end+Software+Engineer;Focused+On+Machine+Learning+%26+Trading"></a>
 </p>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
@@ -18,16 +16,14 @@
   <a href="https://github.com/StephanAkkerman?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/StephanAkkerman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
-  <a href="https://github.com/StephanAkkerman/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/StephanAkkerman-profile-views"/></a>
+ <a href="https://github.com/StephanAkkerman">
+  <img alt="views" title="GitHub profile views" src="https://visitor-badge.laobi.icu/badge?page_id=StephanAkkerman.StephanAkkerman"/></a>
 </p>
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs)](https://github.com/StephanAkkerman/?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io)](https://github.com/StephanAkkerman/?tab=repositories)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=StephanAkkerman.StephanAkkerman)
 
 ---
 ## Projects
