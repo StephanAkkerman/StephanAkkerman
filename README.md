@@ -75,17 +75,19 @@
  </p>
 
 ### 👾 Axie Infinity
-<a href="https://github.com/StephanAkkerman/Axie_Infinity_Extras">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Axie_Infinity_Extras&theme=nightowl " />
-</a>
+<p align="left">
+  <a href="https://github.com/StephanAkkerman/Axie_Infinity_Extras">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Axie_Infinity_Extras&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>  
 
 <a href="https://github.com/StephanAkkerman/Axie_Manager_Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Axie_Manager_Bot&theme=nightowl " />
-</a>
-
-<a href="https://github.com/StephanAkkerman/Scholar_Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Scholar_Stats&theme=nightowl " />
-</a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Axie_Manager_Bot&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>  
+  
+ <a href="https://github.com/StephanAkkerman/Scholar_Stats">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Scholar_Stats&theme=nightowl&hide_border=true&show_icons=false" />
+ </a> 
+</p>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs)](https://github.com/StephanAkkerman/?tab=repositories)
 
