@@ -34,20 +34,17 @@
 ## 📘 My Open Source Projects
 ### TensorTrade
 <p align="left">
-  <a href="https://github.com/StephanAkkerman/TensorTradeExtras"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=nightowl&hide_border=true&show_icons=false" />
+  <a href="https://github.com/StephanAkkerman/TensorTradeExtras">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>
+  
+  <a href="https://github.com/StephanAkkerman/TensorTrade">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTrade&theme=nightowl&hide_border=true&show_icons=false" />
  </a>
 
-<a href="https://github.com/StephanAkkerman/TensorTradeExtras">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=nightowl " />
-</a>
-
-<a href="https://github.com/StephanAkkerman/TensorTrade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTrade&theme=nightowl " />
-</a>
-
-<a href="https://github.com/StephanAkkerman/Crypto_OHLCV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Crypto_OHLCV&theme=nightowl " />
-</a>
+  <a href="https://github.com/StephanAkkerman/Crypto_OHLCV">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Crypto_OHLCV&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>
 
 ### Binance
 <a href="https://github.com/StephanAkkerman/BinanceData">
