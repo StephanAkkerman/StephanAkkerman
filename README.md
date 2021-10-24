@@ -18,7 +18,7 @@
   
  <a href="https://github.com/StephanAkkerman">
   <img alt="views" title="GitHub profile views" 
-     <src "https://komarev.com/ghpvc/?username=StephanAkkerman&style=flat-square">
+     <src="https://komarev.com/ghpvc/?username=StephanAkkerman&style=flat-square">
        <!-- src "https://profile-counter.glitch.me/StephanAkkerman/count.svg"> -->
        <!-- src="https://visitor-badge.laobi.icu/badge?page_id=StephanAkkerman.StephanAkkerman"/> -->
   </a>
