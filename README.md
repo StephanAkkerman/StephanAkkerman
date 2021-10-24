@@ -93,7 +93,9 @@
   <a href="https://github.com/StephanAkkerman?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 📊 Stats
+<h3 align="center">
+  📊 Stats
+</h3>
 
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
@@ -108,4 +110,8 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io)](https://github.com/StephanAkkerman/?tab=repositories)
+<p align="center">
+  <a href="https://github.com/StephanAkkerman/?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io&hide_border=true"/>
+  </a>
+</p>
