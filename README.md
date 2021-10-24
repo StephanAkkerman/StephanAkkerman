@@ -95,11 +95,15 @@
 
 ## 📊 Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs)](https://github.com/StephanAkkerman/?tab=repositories)
+<p align="center">
+  <a href="https://github.com/StephanAkkerman/?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs&hide_border=true"/>
+  </a>
+</p>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/StephanAkkerman/?tab=repositories">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanAkkerman&theme=nightowl&hide_border=true"/>
   </a>
 </p>
