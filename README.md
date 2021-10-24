@@ -29,13 +29,14 @@
     </a>
   </p>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs)](https://github.com/StephanAkkerman/?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io)](https://github.com/StephanAkkerman/?tab=repositories)
-
----
-## Projects
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+## 📘 My Open Source Projects
 ### TensorTrade
+<p align="left">
+  <a href="https://github.com/StephanAkkerman/TensorTradeExtras"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>
+
 <a href="https://github.com/StephanAkkerman/TensorTradeExtras">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=nightowl " />
 </a>
@@ -85,3 +86,7 @@
 <a href="https://github.com/StephanAkkerman/Scholar_Stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Scholar_Stats&theme=nightowl " />
 </a>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs)](https://github.com/StephanAkkerman/?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io)](https://github.com/StephanAkkerman/?tab=repositories)
