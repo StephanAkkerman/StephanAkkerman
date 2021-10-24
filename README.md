@@ -110,6 +110,10 @@
   </a>
 </p>
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/StephanAkkerman/?tab=repositories">
+  <img alt="StephanAkkerman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StephanAkkerman&theme=nightowl&hide_border=true" /></a>
+
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io&hide_border=true"/>
