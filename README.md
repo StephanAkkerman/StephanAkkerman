@@ -17,7 +17,10 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/StephanAkkerman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
  <a href="https://github.com/StephanAkkerman">
-  <img alt="views" title="GitHub profile views" src="https://visitor-badge.laobi.icu/badge?page_id=StephanAkkerman.StephanAkkerman"/></a>
+  <img alt="views" title="GitHub profile views" 
+       <src "https://profile-counter.glitch.me/StephanAkkerman/count.svg">
+       <!-- src="https://visitor-badge.laobi.icu/badge?page_id=StephanAkkerman.StephanAkkerman"/> -->
+  </a>
 </p>
 
 
