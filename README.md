@@ -93,9 +93,9 @@
   <a href="https://github.com/StephanAkkerman?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<h3 align="center">
+<h2 align="center">
   📊 Stats
-</h3>
+</h2>
 
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
