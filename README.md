@@ -5,8 +5,9 @@
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23A37BCB&width=300&lines=Back-end+Software+Engineer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23A37BCB&width=300&lines=Back-end+Software+Engineer"></a></p>
   
+ <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23A37BCB&width=420&lines=Focused+On+Machine+Learning+%26+Trading"></a>
 </p>
 
