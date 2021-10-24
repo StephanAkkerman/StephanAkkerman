@@ -3,8 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23A37BCB&width=500&lines=Back-end+Software+Engineer;Focused+On+Machine+Learning+%26+Trading"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23A37BCB&width=300&lines=Back-end+Software+Engineer)](https://git.io/typing-svg"></a>
+  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23A37BCB&width=420&lines=Focused+On+Machine+Learning+%26+Trading)](https://git.io/typing-svg"></a>
 </p>
 
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
@@ -20,6 +23,7 @@
 
  <!-- src "https://profile-counter.glitch.me/StephanAkkerman/count.svg"> -->
  <!-- src="https://visitor-badge.laobi.icu/badge?page_id=StephanAkkerman.StephanAkkerman"/> -->
+ <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
  <a href="https://github.com/StephanAkkerman">
   <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=StephanAkkerman&style=flat-square">
