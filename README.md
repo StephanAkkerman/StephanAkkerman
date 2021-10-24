@@ -15,14 +15,16 @@
   
   <a href="https://github.com/StephanAkkerman?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/StephanAkkerman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
- <a href="https://github.com/StephanAkkerman">
-  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=StephanAkkerman&style=flat-square">
-       <!-- src "https://profile-counter.glitch.me/StephanAkkerman/count.svg"> -->
-       <!-- src="https://visitor-badge.laobi.icu/badge?page_id=StephanAkkerman.StephanAkkerman"/> -->
   </a>
 </p>
 
+ <!-- src "https://profile-counter.glitch.me/StephanAkkerman/count.svg"> -->
+ <!-- src="https://visitor-badge.laobi.icu/badge?page_id=StephanAkkerman.StephanAkkerman"/> -->
+<p align="center">
+ <a href="https://github.com/StephanAkkerman">
+  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=StephanAkkerman&style=flat-square">
+    </a>
+  </p>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs)](https://github.com/StephanAkkerman/?tab=repositories)
 
