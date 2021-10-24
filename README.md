@@ -112,7 +112,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/StephanAkkerman/?tab=repositories">
-  <img alt="StephanAkkerman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StephanAkkerman&theme=nightowl&hide_border=true" /></a>
+  <img alt="StephanAkkerman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StephanAkkerman&theme=material-palenight&hide_border=true" /></a>
 
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
