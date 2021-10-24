@@ -119,6 +119,6 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p align="center">
 <a href="https://github.com/StephanAkkerman/?tab=repositories">
-  <img alt="StephanAkkerman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StephanAkkerman&bg_color=011627&color=F8D866&line=c692e9&point=79d0c1&hide_border=true" />
+  <img alt="StephanAkkerman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StephanAkkerman&bg_color=011627&color=79d0c1&line=c692e9&point=feea95&hide_border=true" />
 </a>
 </p>
