@@ -33,7 +33,7 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 ## 📘 My Open Source Projects
 ### 📈 TensorTrade
-<p align="left">
+<p align="center">
   <a href="https://github.com/StephanAkkerman/TensorTradeExtras">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=nightowl&hide_border=true&show_icons=false" />
  </a>
