@@ -35,15 +35,15 @@
 ### 📈 TensorTrade
 <p align="left">
   <a href="https://github.com/StephanAkkerman/TensorTradeExtras">
-    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=nightowl&hide_border=true&show_icons=false" />
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTradeExtras&theme=nightowl&hide_border=true&show_icons=false" />
  </a>
   
   <a href="https://github.com/StephanAkkerman/TensorTrade">
-    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTrade&theme=nightowl&hide_border=true&show_icons=false" />
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=TensorTrade&theme=nightowl&hide_border=true&show_icons=false" />
  </a>
 
   <a href="https://github.com/StephanAkkerman/Crypto_OHLCV">
-    <img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Crypto_OHLCV&theme=nightowl&hide_border=true&show_icons=false" />
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Crypto_OHLCV&theme=nightowl&hide_border=true&show_icons=false" />
  </a>
  </p>
 
