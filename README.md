@@ -89,6 +89,13 @@
  </a> 
 </p>
 
+### 💰 KuCoin
+<p align="left">
+  <a href="https://github.com/StephanAkkerman/KuCoin_Stop_Loss_Alert">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=KuCoin_Stop_Loss_Alert&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>  
+</p>
+
 <p align="left">
   <a href="https://github.com/StephanAkkerman?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
