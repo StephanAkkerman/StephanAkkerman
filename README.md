@@ -104,6 +104,12 @@
   📊 Stats
 </h2>
 
+<p align="center">
+  <a href="https://github.com/StephanAkkerman/?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs&hide_border=true"/>
+  </a>
+</p>
+
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
@@ -111,19 +117,11 @@
   </a>
 </p>
 
-<!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
-    <img alt="StephanAkkerman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=StephanAkkerman&show_icons=true&count_private=true&theme=nightowl&hide_border=true" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io&hide_border=true"/>
   </a>
 </p>
-
-<p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="StephanAkkerman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&langs_count=8&layout=compact&theme=nightowl&hide_border=true" height="192px"/>
-  </a>
-</p>
-
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p align="center">
