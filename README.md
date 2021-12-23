@@ -96,6 +96,13 @@
  </a>  
 </p>
 
+### Discord 💬
+<p align="left">
+  <a href="https://github.com/StephanAkkerman/FinTwit_Bot">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=FinTwit_Bot&theme=nightowl&hide_border=true&show_icons=false" />
+ </a>  
+</p>
+
 <p align="left">
   <a href="https://github.com/StephanAkkerman?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
