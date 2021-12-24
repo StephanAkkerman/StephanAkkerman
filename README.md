@@ -96,7 +96,7 @@
  </a>  
 </p>
 
-### Discord 💬
+### 💬 Discord 
 <p align="left">
   <a href="https://github.com/StephanAkkerman/FinTwit_Bot">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=FinTwit_Bot&theme=nightowl&hide_border=true&show_icons=false" />
