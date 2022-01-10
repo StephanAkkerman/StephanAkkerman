@@ -98,7 +98,10 @@
 <a href="https://github.com/StephanAkkerman/Instagram_Bot">
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Instagram_Bot&theme=nightowl&hide_border=true&show_icons=false" />
 </a>
-  
+ 
+<a href="https://github.com/StephanAkkerman/Issue_Bot">
+    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=Issue_Bot&theme=nightowl&hide_border=true&show_icons=false" />
+</a>
 </p>
 
 ### 💰 KuCoin
