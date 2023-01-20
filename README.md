@@ -121,7 +121,7 @@
 
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs&hide_border=true"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs&hide_border=true"/>
   </a>
 </p>
 
@@ -134,7 +134,7 @@
 
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io&hide_border=true"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io&hide_border=true"/>
   </a>
 </p>
 
