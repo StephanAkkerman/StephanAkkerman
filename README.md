@@ -134,7 +134,7 @@
 
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io&hide_border=true"/>
+    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=StephanAkkerman&layout=compact&theme=nightowl&exclude_repo=StephanAkkerman.github.io&hide_border=true"/>
   </a>
 </p>
 
