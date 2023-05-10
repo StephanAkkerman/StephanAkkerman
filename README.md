@@ -1,11 +1,11 @@
-<h3 align="center">
-  Welcome to Stephan Akkerman's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<p align="center">
+  <a href="https://github.com/StephanAkkerman">
+    <img src="https://github.com/StephanAkkerman/StephanAkkerman/assets/45365128/58353804-382a-4bc9-8b86-be0454e6a448" width="210">
+</p>
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=866DC6CB&width=435&lines=Innovative+Back-end+Engineer;Fusing+Machine+Learning+with+Trading+Expertise" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c492e7&width=435&lines=Innovative+Back-end+Engineer;Fusing+Machine+Learning+with+Trading+Expertise" alt="Typing SVG" /></a>
 </p>
 
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
