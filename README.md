@@ -13,10 +13,10 @@
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://github.com/StephanAkkerman?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/StephanAkkerman"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=ad82d0&labelColor=886aac&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/StephanAkkerman"/></a>
   
   <a href="https://github.com/StephanAkkerman?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/StephanAkkerman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/StephanAkkerman?color=59a099&labelColor=448484&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   </a>
 </p>
 
@@ -25,7 +25,7 @@
  <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
  <a href="https://github.com/StephanAkkerman">
-  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=StephanAkkerman&style=flat-square">
+  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=StephanAkkerman&style=for-the-badge&color=081424">
     </a>
   </p>
 
