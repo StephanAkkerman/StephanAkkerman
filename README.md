@@ -63,9 +63,8 @@
   </p>
 </details>
 
-<h2 align="center">
-  📊 Stats
-</h2>
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
@@ -92,3 +91,4 @@
   <img alt="StephanAkkerman's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=StephanAkkerman&bg_color=011627&color=79d0c1&line=c692e9&point=feea95&hide_border=true" />
 </a>
 </p>
+</details>
