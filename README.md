@@ -42,7 +42,7 @@
     <a href="https://github.com/StephanAkkerman/binance-trailing-stop-loss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=binance-trailing-stop-loss&theme=nightowl&hide_border=true&show_icons=false" alt="binance-trailing-stop-loss"></a>
     <a href="https://github.com/StephanAkkerman/crypto-ohlcv"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=crypto-ohlcv&theme=nightowl&hide_border=true&show_icons=false" alt="tensortrade"></a>
     <a href="https://github.com/StephanAkkerman/FluentAI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=FluentAI&theme=nightowl&hide_border=true&show_icons=false" alt="fluentai"></a>
-    <a href="https://github.com/StephanAkkerman/github-label-copier"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=github-label-copier&theme=nightowl&hide_border=true&show_icons=false" alt="github-label-copier"></a>
+    <a href="https://github.com/StephanAkkerman/chart-recognizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=chart-recognizer&theme=nightowl&hide_border=true&show_icons=false" alt="chart-recognizer"></a>
   </p>
 
   <a href="https://github.com/StephanAkkerman?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
