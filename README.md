@@ -54,6 +54,7 @@
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
     <a href="https://github.com/unit8co/darts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=unit8co&repo=darts&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="darts"></a>
+    <a href="https://github.com/ssut/py-googletrans"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ssut&repo=py-googletrans&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="py-googletrans"></a>
     <a href="https://github.com/mnwato/tradingview-scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mnwato&repo=tradingview-scraper&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="darts"></a>
     <a href="https://github.com/TimKoornstra/FinTwitBERT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TimKoornstra&repo=FinTwitBERT&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="fintwitbert"></a>
   </p>
