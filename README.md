@@ -41,7 +41,7 @@
     <a href="https://github.com/StephanAkkerman/tensortrade"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=tensortrade&theme=nightowl&hide_border=true&show_icons=false" alt="tensortrade"></a>
     <a href="https://github.com/StephanAkkerman/binance-trailing-stop-loss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=binance-trailing-stop-loss&theme=nightowl&hide_border=true&show_icons=false" alt="binance-trailing-stop-loss"></a>
     <a href="https://github.com/StephanAkkerman/crypto-ohlcv"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=crypto-ohlcv&theme=nightowl&hide_border=true&show_icons=false" alt="tensortrade"></a>
-    <a href="https://github.com/StephanAkkerman/FluentAI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=FluentAI&theme=nightowl&hide_border=true&show_icons=false" alt="fluentai"></a>
+    <a href="https://github.com/StephanAkkerman/mnemorai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=mnemorai&theme=nightowl&hide_border=true&show_icons=false" alt="mnemorai"></a>
     <a href="https://github.com/StephanAkkerman/chart-recognizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=chart-recognizer&theme=nightowl&hide_border=true&show_icons=false" alt="chart-recognizer"></a>
   </p>
 
