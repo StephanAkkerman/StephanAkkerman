@@ -31,6 +31,7 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<!-- FAVORITE_PROJECTS:START -->
 <details open> 
   <summary><h2>📘 My Favorite Open Source Projects</h2></summary>
   <p align="left">
@@ -44,9 +45,10 @@
     <a href="https://github.com/StephanAkkerman/mnemorai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=mnemorai&theme=nightowl&hide_border=true&show_icons=false" alt="mnemorai"></a>
     <a href="https://github.com/StephanAkkerman/chart-recognizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=chart-recognizer&theme=nightowl&hide_border=true&show_icons=false" alt="chart-recognizer"></a>
   </p>
+</details>
+<!-- FAVORITE_PROJECTS:END -->
 
   <a href="https://github.com/StephanAkkerman?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
 
 <details open> 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
