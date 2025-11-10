@@ -30,7 +30,7 @@ jobs:
                   GITHUB_USERNAME: StephanAkkerman
                   MAX_FAVORITE_REPOS: "9"
               run: |
-                  python scripts/update_readme_favorites.py
+                  python scripts/update_favs.py
 
             - name: Commit and push if changed
               run: |
