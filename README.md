@@ -4,11 +4,6 @@
     <img src="https://github.com/StephanAkkerman/StephanAkkerman/assets/45365128/58353804-382a-4bc9-8b86-be0454e6a448" width="210">
 </p>
 
-<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=c492e7&width=435&lines=Machine+Learning+Developer" alt="Typing SVG" /></a>
-</p>
-
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
@@ -71,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/StephanAkkerman/?tab=repositories">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs&hide_border=true"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=StephanAkkerman&count_private=true&show_icons=true&theme=nightowl&hide=contribs,prs&hide_border=true"/>
   </a>
 </p>
 
@@ -88,10 +83,4 @@
   </a>
 </p>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<p align="center">
-<a href="https://github.com/StephanAkkerman/?tab=repositories">
-  <img alt="StephanAkkerman's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=StephanAkkerman&bg_color=011627&color=79d0c1&line=c692e9&point=feea95&hide_border=true" />
-</a>
-</p>
 </details>
