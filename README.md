@@ -35,15 +35,15 @@
 <details open>
   <summary><h2>📘 My Favorite Open Source Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/StephanAkkerman/fintwit-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=fintwit-bot&theme=nightowl&hide_border=true&show_icons=false" alt="fintwit-bot"></a>
-    <a href="https://github.com/StephanAkkerman/tensortrade-extras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=tensortrade-extras&theme=nightowl&hide_border=true&show_icons=false" alt="tensortrade-extras"></a>
-    <a href="https://github.com/StephanAkkerman/live-binance-charts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=live-binance-charts&theme=nightowl&hide_border=true&show_icons=false" alt="live-binance-charts"></a>
-    <a href="https://github.com/StephanAkkerman/tensortrade"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=tensortrade&theme=nightowl&hide_border=true&show_icons=false" alt="tensortrade"></a>
-    <a href="https://github.com/StephanAkkerman/liquidations-chart"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=liquidations-chart&theme=nightowl&hide_border=true&show_icons=false" alt="liquidations-chart"></a>
-    <a href="https://github.com/StephanAkkerman/crypto-rsi-heatmap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=crypto-rsi-heatmap&theme=nightowl&hide_border=true&show_icons=false" alt="crypto-rsi-heatmap"></a>
-    <a href="https://github.com/StephanAkkerman/crypto-ohlcv"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=crypto-ohlcv&theme=nightowl&hide_border=true&show_icons=false" alt="crypto-ohlcv"></a>
-    <a href="https://github.com/StephanAkkerman/crypto-forecasting-benchmark"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=crypto-forecasting-benchmark&theme=nightowl&hide_border=true&show_icons=false" alt="crypto-forecasting-benchmark"></a>
-    <a href="https://github.com/StephanAkkerman/binance-trailing-stop-loss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StephanAkkerman&repo=binance-trailing-stop-loss&theme=nightowl&hide_border=true&show_icons=false" alt="binance-trailing-stop-loss"></a>
+    <a href="https://github.com/StephanAkkerman/fintwit-bot"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=StephanAkkerman&repo=fintwit-bot&theme=nightowl&hide_border=true&show_icons=false" alt="fintwit-bot"></a>
+    <a href="https://github.com/StephanAkkerman/tensortrade-extras"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=StephanAkkerman&repo=tensortrade-extras&theme=nightowl&hide_border=true&show_icons=false" alt="tensortrade-extras"></a>
+    <a href="https://github.com/StephanAkkerman/live-binance-charts"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=StephanAkkerman&repo=live-binance-charts&theme=nightowl&hide_border=true&show_icons=false" alt="live-binance-charts"></a>
+    <a href="https://github.com/StephanAkkerman/tensortrade"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=StephanAkkerman&repo=tensortrade&theme=nightowl&hide_border=true&show_icons=false" alt="tensortrade"></a>
+    <a href="https://github.com/StephanAkkerman/liquidations-chart"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=StephanAkkerman&repo=liquidations-chart&theme=nightowl&hide_border=true&show_icons=false" alt="liquidations-chart"></a>
+    <a href="https://github.com/StephanAkkerman/crypto-rsi-heatmap"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=StephanAkkerman&repo=crypto-rsi-heatmap&theme=nightowl&hide_border=true&show_icons=false" alt="crypto-rsi-heatmap"></a>
+    <a href="https://github.com/StephanAkkerman/crypto-ohlcv"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=StephanAkkerman&repo=crypto-ohlcv&theme=nightowl&hide_border=true&show_icons=false" alt="crypto-ohlcv"></a>
+    <a href="https://github.com/StephanAkkerman/crypto-forecasting-benchmark"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=StephanAkkerman&repo=crypto-forecasting-benchmark&theme=nightowl&hide_border=true&show_icons=false" alt="crypto-forecasting-benchmark"></a>
+    <a href="https://github.com/StephanAkkerman/binance-trailing-stop-loss"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=StephanAkkerman&repo=binance-trailing-stop-loss&theme=nightowl&hide_border=true&show_icons=false" alt="binance-trailing-stop-loss"></a>
   </p>
 </details>
 <!-- FAVORITE_PROJECTS:END -->
@@ -55,10 +55,10 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/unit8co/darts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=unit8co&repo=darts&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="darts"></a>
-    <a href="https://github.com/ssut/py-googletrans"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ssut&repo=py-googletrans&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="py-googletrans"></a>
-    <a href="https://github.com/mnwato/tradingview-scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mnwato&repo=tradingview-scraper&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="darts"></a>
-    <a href="https://github.com/TimKoornstra/FinTwitBERT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TimKoornstra&repo=FinTwitBERT&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="fintwitbert"></a>
+    <a href="https://github.com/unit8co/darts"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=unit8co&repo=darts&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="darts"></a>
+    <a href="https://github.com/ssut/py-googletrans"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=ssut&repo=py-googletrans&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="py-googletrans"></a>
+    <a href="https://github.com/mnwato/tradingview-scraper"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=mnwato&repo=tradingview-scraper&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="darts"></a>
+    <a href="https://github.com/TimKoornstra/FinTwitBERT"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=TimKoornstra&repo=FinTwitBERT&theme=nightowl&hide_border=true&show_icons=false&show_description=false" alt="fintwitbert"></a>
   </p>
 
   <p align="left">
